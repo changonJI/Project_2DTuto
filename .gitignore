@@ -1,6 +1,9 @@
-Project_2D_Tuto/Assembly-CSharp-Editor.csproj
-Project_2D_Tuto/Library/
-Project_2D_Tuto/ProjectSettings/
-Project_2D_Tuto/Temp/
-Project_2D_Tuto/Logs/
-Project_2D_Tuto/UserSettings/
+Assembly-CSharp-Editor.csproj
+Library/
+ProjectSettings/
+Temp/
+Logs/
+UserSettings/
+obj/Debug/
+Assembly-CSharp.csproj
+*.sln
